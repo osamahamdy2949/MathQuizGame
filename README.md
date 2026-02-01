@@ -21,5 +21,3 @@ A **console-based Math Quiz Game** developed in C++ for practicing basic arithme
 3. Enter your answer for each question.
 4. The program will inform you if your answer is correct or not.
 5. At the end, you will see the total right and wrong answers, and whether you passed the quiz.
-
-## Sample Gameplay
